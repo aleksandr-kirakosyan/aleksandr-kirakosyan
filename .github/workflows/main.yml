@@ -53,3 +53,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Additional step to set the background color to black
+      - name: Set background color to black
+        run: sed -i 's/<body>/<body style="background-color: black;">/' dist/github-contribution-grid-snake.svg
