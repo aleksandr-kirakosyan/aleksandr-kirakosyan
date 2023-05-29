@@ -12,8 +12,8 @@ Feel free to explore my repositories to discover more projects I've contributed 
 
 You can find me on various platforms. Let's connect and explore the world of frontend development together:
 
-- **GitHub**: [Your GitHub Profile](https://github.com/aleksandr-kirakosyan)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/aleksandrkiraks/)
+- **GitHub**: [Aleksandr Kirakosyan](https://github.com/aleksandr-kirakosyan)
+- **LinkedIn**: [Aleksandr Kirakosyan](https://www.linkedin.com/in/aleksandrkiraks/)
 
 I'm always open to new opportunities, collaborations, or just having a chat. Don't hesitate to reach out!
 
@@ -21,7 +21,7 @@ I'm always open to new opportunities, collaborations, or just having a chat. Don
 
 Here are some icons representing the languages and tools I use:
 
-![HTML5](https://your-icon-urls/html5.png) ![CSS3](https://your-icon-urls/css3.png) ![JavaScript](https://your-icon-urls/javascript.png) ![React](https://your-icon-urls/react.png) ![Vue](https://your-icon-urls/vue.png) ![Sass](https://your-icon-urls/sass.png) ![LESS](https://your-icon-urls/less.png) ![Bootstrap](https://your-icon-urls/bootstrap.png) ![Git](https://your-icon-urls/git.png) ![GitHub](https://your-icon-urls/github.png)
+![HTML5]([https://your-icon-urls/html5.png](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png)) ![CSS3](https://your-icon-urls/css3.png) ![JavaScript](https://your-icon-urls/javascript.png) ![React](https://your-icon-urls/react.png) ![jQuery](https://your-icon-urls/vue.png) ![Sass](https://your-icon-urls/sass.png) ![PHP](https://your-icon-urls/less.png) ![Bootstrap](https://your-icon-urls/bootstrap.png) ![Git](https://your-icon-urls/git.png) ![GitHub](https://your-icon-urls/github.png) ![VS Code]()
 
 Feel free to check out my repositories to see these technologies in action!
 
