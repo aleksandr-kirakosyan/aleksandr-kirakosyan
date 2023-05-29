@@ -31,4 +31,4 @@ Thank you for visiting my GitHub profile. I hope you find my work inspiring and 
 
 ## Contribution
 
-![snake gif](https://github.com/aleksandr-kirakosyan/aleksandr-kirakosyan/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/aleksandr-kirakosyan/aleksandr-kirakosyan/blob/output/github-contribution-grid-snake.svg)
