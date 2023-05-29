@@ -20,7 +20,7 @@ I'm always open to new opportunities, collaborations, or just having a chat. Don
 ## Languages and Tools
 
 Here are some icons representing the languages and tools I use:
-![HTML]https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png{: width="30PX" height="auto"} 
+![HTML](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png){: width="30PX" height="auto"} 
 
 Feel free to check out my repositories to see these technologies in action!
 
