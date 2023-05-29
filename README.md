@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hey there! 👋 I'm [Your Name], a passionate and dedicated frontend developer. Welcome to my GitHub profile, where you can explore my projects, contributions, and journey as a developer. Feel free to have a look around and don't hesitate to get in touch if you have any questions or collaboration opportunities!
+Hey there! 👋 I'm Aleksandr, a passionate and dedicated frontend developer. Welcome to my GitHub profile, where you can explore my projects, contributions, and journey as a developer. Feel free to have a look around and don't hesitate to get in touch if you have any questions or collaboration opportunities!
 
 ## About Me
 
