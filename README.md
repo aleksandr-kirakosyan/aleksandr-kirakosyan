@@ -28,7 +28,3 @@ Feel free to check out my repositories to see these technologies in action!
 ---
 
 Thank you for visiting my GitHub profile. I hope you find my work inspiring and informative. Let's build amazing things together! 😊
-
-## Contribution
-
-![snake gif](https://github.com/aleksandr-kirakosyan/aleksandr-kirakosyan/blob/output/github-contribution-grid-snake.svg)
