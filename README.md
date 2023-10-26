@@ -1,10 +1,10 @@
 # Welcome to My GitHub Profile!
 
-Hey there! 👋 I'm Aleksandr, a passionate and dedicated frontend developer. Welcome to my GitHub profile, where you can explore my projects, contributions, and journey as a developer. Feel free to have a look around and don't hesitate to get in touch if you have any questions or collaboration opportunities!
+Hey there! 👋 I'm Aleksandr, a passionate and dedicated full-stack developer. Welcome to my GitHub profile, where you can explore my projects, contributions, and journey as a developer. Feel free to have a look around and don't hesitate to get in touch if you have any questions or collaboration opportunities!
 
 ## About Me
 
-I'm a frontend developer with a strong focus on creating intuitive and visually appealing user interfaces. I thrive on the challenge of turning complex problems into simple, elegant solutions. With a keen eye for design and attention to detail, I strive to create seamless user experiences that leave a lasting impression.
+I'm a full-stack developer with a strong focus on creating intuitive and visually appealing user interfaces. I thrive on the challenge of turning complex problems into simple, elegant solutions. With a keen eye for design and attention to detail, I strive to create seamless user experiences that leave a lasting impression.
 
 Feel free to explore my repositories to discover more projects I've contributed to!
 
