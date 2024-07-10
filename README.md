@@ -12,7 +12,6 @@ Feel free to explore my repositories to discover more projects I've contributed 
 
 You can find me on various platforms. Let's connect and explore the world of frontend development together:
 
-- **GitHub**: [Aleksandr Kirakosyan's GitHub](https://github.com/aleksandr-kirakosyan)
 - **LinkedIn**: [Aleksandr Kirakosyan's LinkedIn](https://www.linkedin.com/in/aleksandrkiraks/)
 - **Fiverr**: [Aleksandr Kirakosyan's Fiverr](https://www.fiverr.com/k_aleksandr)
 - **UpWork**: [Aleksandr Kirakosyan's UpWork](https://www.upwork.com/freelancers/~010a70b77cbf1f8038)
